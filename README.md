@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tv7ejpca615ioa6o?svg=true)](https://ci.appveyor.com/project/Ramastix/howoselen)
